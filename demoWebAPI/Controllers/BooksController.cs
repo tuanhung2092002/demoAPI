@@ -1,17 +1,24 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using demoWebAPI.Model;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace demoWebAPI.Controllers
 {
+    [Authorize]
+
     [Route("api/[controller]")]
     [ApiController]
     public class BooksController : ControllerBase
     {
+
         private List<Book> _books = new List<Book>
     {
         new Book { Id = 1, Title = "Book 1", Author = "Author 1" },
         new Book { Id = 2, Title = "Book 2", Author = "Author 2" },
-        new Book { Id = 3, Title = "Book 3", Author = "Author 3" }
+        new Book { Id = 3, Title = "Book 3", Author = "Author 3" },
+        new Book { Id = 4, Title = "Book 4", Author = "Author 4" },
+        new Book { Id = 5, Title = "Book 5", Author = "Author 5" },
     };
 
         // GET /api/books
@@ -20,6 +27,7 @@ namespace demoWebAPI.Controllers
         {
             return Ok(_books);
         }
+        
 
         // GET /api/books/{id}
         [HttpGet("{id}")]

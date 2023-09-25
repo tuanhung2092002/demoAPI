@@ -1,4 +1,4 @@
-﻿namespace demoWebAPI
+﻿namespace demoWebAPI.Model
 {
     public class Book
     {
