@@ -1,0 +1,10 @@
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.exe.config
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.exe
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\bin\Debug\Serialize_Deserialize.pdb
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.exe
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.pdb
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\Serialize_Deserialize\obj\Debug\Serialize_Deserialize.csproj.CopyComplete

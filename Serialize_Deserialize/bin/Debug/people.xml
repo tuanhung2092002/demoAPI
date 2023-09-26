@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Hung</Name>
+    <Age>20</Age>
+    <Phone>0976294525</Phone>
+    <Address>Ha Noi</Address>
+  </Person>
+  <Person>
+    <Name>Hoang</Name>
+    <Age>21</Age>
+    <Phone>0986967520</Phone>
+    <Address>Thanh Hoa</Address>
+  </Person>
+</ArrayOfPerson>

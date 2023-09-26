@@ -70,3 +70,5 @@ C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\T
 C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\demoWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\demoWebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\demoWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\demoWebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\admin\OneDrive - Hanoi University of Science and Technology\Documents\Tuấn Hùng\BKAV\code c#\Web API\demoWebAPI\demoWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

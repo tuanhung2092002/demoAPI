@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "h18SvMPBCAq1yQk/XTINr+3hTE3Lb66c/+N7nvpSFjlj+guonGO+k6n6ozUmcXDAe56ne9Y0Lge/dAZ5KSzXPw==",
+  "dgSpecHash": "GhM06UvwnrD0VZBz3fOCGFKzmtEGHky9bsWI5gmsVkOxxRO0wZkkrbuF2lX/+3uIFljjiZJDjyeVmUh0MTtZFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\OneDrive - Hanoi University of Science and Technology\\Documents\\Tuấn Hùng\\BKAV\\code c#\\Web API\\demoWebAPI\\demoWebAPI\\demoWebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.22\\microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
